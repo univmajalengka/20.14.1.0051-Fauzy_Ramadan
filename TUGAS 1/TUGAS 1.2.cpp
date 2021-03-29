@@ -1,3 +1,6 @@
+// Nama : Fauzy Ramadan
+// NPM : 20.14.1.0051
+
 #include <iostream>
 using namespace std;
 int main ()
